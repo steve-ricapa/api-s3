@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+.serverless/
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
